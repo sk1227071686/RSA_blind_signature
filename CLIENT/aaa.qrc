@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>DSS.png</file>
+    <file>bg.jpeg</file>
+    <file>白版.png</file>
+    <file>加载图片.jpeg</file>
+    <file>menu.jpg</file>
+    <file>captcha.png</file>
+  </qresource>
+</RCC>
